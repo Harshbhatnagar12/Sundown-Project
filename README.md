@@ -56,8 +56,8 @@ Sundown-Project/
 │   └── videos/
 └── README.md
 
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/08ad8663-2077-42bd-822e-ad3904a134cf" />
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6d30478b-6826-4ab3-85a5-bc6f6c17cf6b" />
+<img src="https://github.com/user-attachments/assets/08ad8663-2077-42bd-822e-ad3904a134cf" />
+<img src="https://github.com/user-attachments/assets/6d30478b-6826-4ab3-85a5-bc6f6c17cf6b" />
 
 
 
