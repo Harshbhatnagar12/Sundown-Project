@@ -53,11 +53,17 @@ Sundown-Project/
 ├── script.js
 ├── assets/
 │   ├── images/
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/df227738-d15c-46c8-9565-0aa4c6185693" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/18053843-5963-4ddc-add8-6087ea70436e" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/0f2b9bdf-3eb3-4f22-974a-1ea0b09f7271" />
+
+
+
 │   └── videos/
 └── README.md
 
-<img src="https://github.com/user-attachments/assets/08ad8663-2077-42bd-822e-ad3904a134cf" />
-<img src="https://github.com/user-attachments/assets/6d30478b-6826-4ab3-85a5-bc6f6c17cf6b" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/713701f4-92a3-4ac1-924d-e8fb8f14d807" />
+
 
 
 
